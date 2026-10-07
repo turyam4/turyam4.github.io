@@ -16,7 +16,7 @@ postnominals:
 status:
   icon: "☕️"
 
-role: PhD Student
+role: ""
 
 bio: |
   I’m a PhD student at the University of Luxembourg, deep diving into the mathematical foundations of geometrical/topological deep learning. I am currently working under Professor Jun Pang.
@@ -29,9 +29,10 @@ links:
     url: mailto:raghuwansh.raj@uni.lu
     label: E-mail Me
   - icon: brands/github
-    url: https://github.com/rajraghuwansh
+    url: https://github.com/turyam4
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/raghuwansh/
+    label: LinkedIn
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
 
@@ -47,12 +48,12 @@ interests:
   - Molecular Dynamics Simulations
 
 education:
-  - degree: PhD in Geometrical and Topological Deep Learning.
+  - degree: PhD Student in Geometrical and Topological Deep Learning.
     institution: FSTM, University of Luxembourg
     start: 2025-09-01
     end:  Current
     summary: |
-      Research in Geometrical and Topological Deep Learning and its application in interdisciplinary domains such as drug discovery and molecular dynamics simulations. 
+      Research in Geometrical and Topological Deep Learning and its application in interdisciplinary domains. 
       Aspects of  under the supervision of Professor Jun Pang.
     button:
       text: Download CV
@@ -68,7 +69,7 @@ education:
       interdisciplinary ml projects in Finance, Marketing.
     button:
       text: Dissertation
-      url: https://github.com/rajraghuwansh/CRP/blob/main/main.pdf
+      url: https://github.com/turyam4/CRP/blob/main/main.pdf
       icon: hero/arrow-down-tray
 
   - degree: Bachelor of Engineering minior in Mathematics.
@@ -81,7 +82,7 @@ education:
       Modeling using ML.
     button:
       text: Dissertation
-      url: https://github.com/rajraghuwansh/CRP/blob/main/BTPfinal.pdf
+      url: https://github.com/turyam4/CRP/blob/main/BTPfinal.pdf
       icon: hero/arrow-down-tray
 
 experience:

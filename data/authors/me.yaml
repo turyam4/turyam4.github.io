@@ -70,11 +70,11 @@ education:
       Participated in intensive trimester program on "Geometric Statistics: theory, application, and computation" featuring schools, workshops, and conferences including "Stochastic Analysis, Statistics, and Computation on Manifolds and Singular Spaces" and "Geometry, Topology, and Learning on Smooth and Singular Spaces." Engaged with leading mathematicians and researchers at the forefront of geometric and topological methods in mathematics.
 
   - degree: Double MSc in Data Science and Business Analytics.
-    institution: CentraleSupélec & ESSEC Business School, Paris, France
+    institution: Department of Data Science, CentraleSupélec & ESSEC Business School, Paris, France
     start: 2021-09-01
     end: 2023-03-31
     summary: |
-      CGPA: 15.35/20. Studied  machine learning and deep learning models including MLPs, CNNs, and GNNs and theri  mathematical foundations. Completed a thesis on the expressive power of GNNs and their applications in drug discovery, molecular dynamics simulations, and combinatorial optimization,  
+      CGPA: 15.35/20. Studied  machine learning and deep learning models including MLPs, CNNs, and GNNs and theri  mathematical foundations. Completed a thesis on the expressive power of GNNs and their applications in drug discovery, molecular dynamics simulations, and combinatorial optimization,
       interdisciplinary ml projects in Finance, Marketing.
     button:
       text: Dissertation
@@ -82,7 +82,7 @@ education:
       icon: hero/arrow-down-tray
 
   - degree: Bachelor of Engineering minior in Mathematics.
-    institution: Indian Institute of Technology (IIT) BHU, Varanasi, India
+    institution: Department of Computer Science & Engineering, Indian Institute of Technology (IIT) BHU, Varanasi, India
     start: 2016-07-01
     end: 2020-05-31
     summary: |

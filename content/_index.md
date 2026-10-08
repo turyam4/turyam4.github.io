@@ -46,8 +46,7 @@ sections:
         Geometrical & Topological Deep Learning architectures, especially on non-Euclidean domains such as manifolds, spheres, graphs, higher order data objects like combinatorial complexes.
         Mathematical breakthroughs in GDL/TDL through the lens of differential geometry, algebraic topology, graph theory, and group theory.
         Geometric graph neural networks, equivariant graph neural networks, and the expressive power of GNNs.
-        Applications of GDL/TDL in atomic systems, drug discovery, and molecular dynamics simulations.
-        Occasional musings on AI alignment, interpretability and ethics, existence and consciousness.
+  
 
     design:
       columns: '1'

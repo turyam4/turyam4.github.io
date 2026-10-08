@@ -1,6 +1,9 @@
 ---
 title: Twitter Sentiment Analysis on Stocks
 date: 2021-06-01
+authors:
+  - me
+draft: false
 links:
   - type: site
     url: https://github.com/rajraghuwansh/Twitter-sentiment_on_stocks

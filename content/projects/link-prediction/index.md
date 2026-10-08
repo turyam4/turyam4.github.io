@@ -2,6 +2,9 @@
 title: Link Prediction in Citation Networks
 date: 2022-02-01
 summary: Kaggle competition project on citation-network link prediction using graph-based machine learning methods.
+authors:
+  - me
+draft: false
 
 tags:
   - Graph Neural Networks

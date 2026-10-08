@@ -30,4 +30,19 @@ sections:
     content:
       title: Languages
       username: me
+  - block: collection
+    id: talks
+    content:
+      title: Recent Experiences & Workshops
+      text: Latest updates from workshops, summer schools, and research experiences.
+      filters:
+        folders:
+          - events
+    design:
+      view: card
+      fill_image: true
+      columns: 1
+      show_date: true
+      show_read_time: true
+      show_read_more: true
 ---

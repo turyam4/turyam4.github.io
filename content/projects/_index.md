@@ -26,14 +26,15 @@ sections:
 
   - block: collection
     content:
-      title: Recent Experiences & Blogs
-      text: Latest updates from workshops, summer schools, and research experiences.
+      title: Blog Posts
+      text: Research insights and technical explorations.
+      page_type: blog
       filters:
         folders:
-          - events
+          - blog
+      count: 10
     design:
       view: card
-      fill_image: true
       columns: 1
       show_date: true
       show_read_time: true

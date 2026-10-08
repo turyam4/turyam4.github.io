@@ -53,12 +53,19 @@ education:
     start: 2025-09-01
     end:  Current
     summary: |
-      Research in Geometrical and Topological Deep Learning and its application in interdisciplinary domains. 
+      Research in Geometrical and Topological Deep Learning and its application in interdisciplinary domains.
       Aspects of  under the supervision of Professor Jun Pang.
     button:
       text: Download CV
       url: /cv.pdf
       icon: hero/arrow-down-tray
+
+  - degree: Dual Trimester Program - Geometric Statistics
+    institution: Hausdorff Research Institute for Mathematics (HIM), Bonn University, Germany
+    start: 2026-09-14
+    end: 2026-12-12
+    summary: |
+      Participated in intensive trimester program on "Geometric Statistics: theory, application, and computation" featuring schools, workshops, and conferences including "Stochastic Analysis, Statistics, and Computation on Manifolds and Singular Spaces" and "Geometry, Topology, and Learning on Smooth and Singular Spaces." Engaged with leading mathematicians and researchers at the forefront of geometric and topological methods in mathematics.
 
   - degree: Double MSc in Data Science and Business Analytics.
     institution: CentraleSupélec & ESSEC Business School, Paris, France
@@ -86,6 +93,13 @@ education:
       icon: hero/arrow-down-tray
 
 experience:
+  - role: Participant, Summer School
+    org: London Geometry and Machine Learning (LOGML), Imperial College London
+    start: 2026-07-13
+    end: 2026-07-17
+    summary: |
+      Attended intensive summer school on geometric deep learning covering graph representation learning, equivariant machine learning, algebraic geometry in deep learning, and physics-informed graph neural networks. Collaborated on group project exploring canonicalization of 3D molecular point clouds with focus on symmetry-aware preprocessing for molecular geometry learning.
+
   - role: Machine Learning Engineer
     org: Stellantis, Europe
     start: 2023-06-01

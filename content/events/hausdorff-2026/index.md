@@ -12,6 +12,7 @@ tags:
   - Conferences
   - Bonn University
 image:
+  filename: featured.jpg
   caption: "Hausdorff Research Institute for Mathematics – advancing mathematical research at the forefront of science."
 ---
 

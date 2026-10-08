@@ -11,6 +11,7 @@ tags:
   - Machine Learning
   - Imperial College London
 image:
+  filename: featured.jpg
   caption: "LOGML 2026 at Royal Albert Hall, London – leaders in geometric deep learning and machine learning."
 ---
 

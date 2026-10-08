@@ -10,12 +10,12 @@ main:
   - name: Papers
     url: /#papers
     weight: 11
-  - name: Blogs
+  - name: Experiences
     url: /#talks
     weight: 12
-  - name: Experience
+  - name: Education
     url: experience/
     weight: 20
-  - name: Projects
+  - name: Blogs & Projects
     url: projects/
     weight: 30

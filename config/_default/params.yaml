@@ -23,7 +23,7 @@ hugoblox:
     # Site meta description for search engines and social sharing
     description: "The highly-customizable Hugo Academic theme powered by HugoBlox Kit. Easily create your personal academic website."
     # Site favicon
-    favicon: "/favicon.png"
+    favicon: "/favicon.jpg"
     # Social accounts (used for meta tags like Twitter Cards)
     social:
       twitter: "LoreLabs_"              # Twitter/X handle for Twitter Cards (without @)

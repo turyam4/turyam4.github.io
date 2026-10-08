@@ -2,6 +2,7 @@
 title: 📐 London Geometry and Machine Learning (LOGML) Summer School 2026
 summary: Attended prestigious summer school at Imperial College London covering geometric deep learning, graph neural networks, and equivariant machine learning.
 date: 2026-07-17
+draft: false
 authors:
   - me
 tags:

@@ -2,6 +2,7 @@
 title: 🏛️ Hausdorff Trimester Program - Geometric Statistics 2026
 summary: Participating in prestigious dual trimester program at Hausdorff Research Institute for Mathematics (HIM) focusing on geometric statistics, theory, applications, and computation.
 date: 2026-12-12
+draft: false
 authors:
   - me
 tags:

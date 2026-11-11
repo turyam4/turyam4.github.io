@@ -69,7 +69,7 @@ education:
     summary: |
       Participated in intensive trimester program on "Geometric Statistics: theory, application, and computation" featuring schools, workshops, and conferences including "Stochastic Analysis, Statistics, and Computation on Manifolds and Singular Spaces" and "Geometry, Topology, and Learning on Smooth and Singular Spaces." Engaged with leading mathematicians and researchers at the forefront of geometric and topological methods in mathematics.
 
-  - degree: Double MSc in Data Science and Business Analytics.
+  - degree: MSc in Machine Learning
     institution: Department of Data Science, CentraleSupélec & ESSEC Business School, Paris, France
     start: 2021-09-01
     end: 2023-03-31
@@ -81,7 +81,7 @@ education:
       url: https://github.com/turyam4/CRP/blob/main/main.pdf
       icon: hero/arrow-down-tray
 
-  - degree: Bachelor of Engineering minior in Mathematics.
+  - degree: Bachelor in Engineering Mathematics
     institution: Department of Computer Science & Engineering, Indian Institute of Technology (IIT) BHU, Varanasi, India
     start: 2016-07-01
     end: 2020-05-31
